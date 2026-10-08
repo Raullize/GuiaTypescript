@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=120&section=header&animation=twinkling"/>
 
-# 🔍 Conceitos Fundamentais do TypeScript
+# Conceitos Fundamentais do TypeScript
 
 ## O que é TypeScript?
 
@@ -53,6 +53,6 @@ tsc --target ES2020 --module commonjs arquivo.ts
 
 ---
 
-[🔙 Voltar ao índice principal](../README.md)
+[Voltar ao índice principal](../README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=120&section=footer"/>

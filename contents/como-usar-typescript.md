@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=120&section=header&animation=twinkling"/>
 
-# 🔧 Como usar o TypeScript?
+# Como usar o TypeScript?
 
 ## Instalação
 
@@ -145,6 +145,6 @@ npm install --save-dev nodemon
 
 ---
 
-[🔙 Voltar ao índice principal](../README.md)
+[Voltar ao índice principal](../README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=120&section=footer"/>

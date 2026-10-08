@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=120&section=header&animation=twinkling"/>
 
-# 🌐 Ecossistema TypeScript
+# Ecossistema TypeScript
 
 ## Bibliotecas e Frameworks Populares
 
@@ -755,6 +755,6 @@ it('deve buscar usuários da API', async () => {
 
 ---
 
-[🔙 Voltar ao índice principal](../README.md)
+[Voltar ao índice principal](../README.md)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=120&section=footer"/>
